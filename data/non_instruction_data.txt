@@ -1,0 +1,113 @@
+A savings account is a deposit account held at a bank that earns interest on the balance. It is meant for individuals who want to set aside money safely while earning a modest return. Most savings accounts allow limited withdrawals per month and may charge a fee if the minimum balance is not maintained.
+
+A current account, also called a checking account, is designed for frequent transactions and does not usually earn interest. Businesses and individuals who need to make frequent deposits and withdrawals typically use current accounts because they offer overdraft facilities and unlimited transactions.
+
+A fixed deposit is a financial instrument where a lump sum of money is deposited for a fixed tenure at a predetermined interest rate. The interest rate on a fixed deposit is generally higher than a regular savings account because the funds are locked in for the agreed period. Premature withdrawal usually attracts a penalty.
+
+A recurring deposit allows a depositor to invest a fixed amount every month for a fixed tenure and earn interest similar to a fixed deposit. It is useful for individuals who want to build a savings habit with smaller, regular contributions rather than a single lump sum.
+
+Know Your Customer, commonly abbreviated as KYC, is a mandatory process that financial institutions follow to verify the identity of their customers. KYC documents typically include proof of identity, proof of address, and a recent photograph. Banks are required by regulation to complete KYC before opening any account.
+
+A credit score is a numerical representation of an individual's creditworthiness, usually ranging from 300 to 900 in many markets. It is calculated based on factors such as repayment history, credit utilization, length of credit history, and the number of recent credit inquiries. A higher credit score generally results in easier loan approval and lower interest rates.
+
+A credit card is a payment instrument that allows the holder to borrow funds up to a pre-approved limit to make purchases. The borrowed amount must be repaid by the due date to avoid interest charges. Most credit cards offer an interest-free period, typically between twenty and fifty days, provided the previous balance is paid in full.
+
+A debit card is linked directly to a bank account and allows the holder to spend only the amount available in that account. Unlike a credit card, a debit card does not involve borrowing, so there is no interest charged on debit card transactions.
+
+The minimum amount due on a credit card statement is the smallest payment a cardholder must make to avoid a late payment penalty. However, paying only the minimum amount due means the remaining balance continues to accrue interest, which can significantly increase the overall cost of borrowing.
+
+A personal loan is an unsecured loan that does not require collateral and can be used for purposes such as medical expenses, travel, weddings, or debt consolidation. Because personal loans are unsecured, lenders typically charge a higher interest rate compared to secured loans like home loans.
+
+A home loan, also known as a mortgage, is a secured loan used to purchase or construct a residential property, where the property itself serves as collateral. Home loans usually have longer repayment tenures, often extending up to twenty or thirty years, and comparatively lower interest rates due to the security provided.
+
+An auto loan is a secured loan specifically used to purchase a vehicle, with the vehicle serving as collateral until the loan is fully repaid. If the borrower defaults, the lender has the right to repossess the vehicle.
+
+Equated Monthly Installment, commonly known as EMI, is the fixed payment amount a borrower pays to a lender on a specified date each month. An EMI consists of both principal and interest components, and the proportion of interest is generally higher in the earlier installments of the loan tenure.
+
+Loan prepayment refers to paying off a loan, either partially or fully, before the end of its scheduled tenure. Prepaying a loan can reduce the total interest paid over the life of the loan, although some lenders charge a prepayment penalty, particularly on fixed-rate loans.
+
+The annual percentage rate, or APR, represents the total yearly cost of borrowing, including interest and applicable fees, expressed as a percentage. APR allows borrowers to compare the true cost of different loan offers more accurately than comparing interest rates alone.
+
+A fixed interest rate remains constant throughout the loan tenure, providing predictable monthly payments. A floating interest rate, on the other hand, fluctuates based on changes in a benchmark rate, which means the EMI amount can increase or decrease over time.
+
+Loan collateral is an asset that a borrower pledges to a lender as security for a loan. If the borrower fails to repay the loan, the lender has the legal right to seize and sell the collateral to recover the outstanding amount.
+
+A credit utilization ratio is the percentage of available credit that a person is currently using. Financial advisors generally recommend keeping this ratio below thirty percent, as higher utilization can negatively affect a credit score.
+
+A balance transfer allows a credit cardholder to move an outstanding balance from one credit card to another, usually to take advantage of a lower interest rate. Balance transfers often come with a one-time processing fee and a promotional low-interest period.
+
+Overdraft facility allows an account holder to withdraw more money than what is available in their account, up to an approved limit. Banks charge interest on the overdrawn amount, and the facility is commonly used by businesses to manage short-term cash flow gaps.
+
+A mutual fund is an investment vehicle that pools money from multiple investors to purchase a diversified portfolio of stocks, bonds, or other securities, managed by a professional fund manager. Investors in a mutual fund own units that represent their proportional share of the fund's holdings.
+
+Net Asset Value, abbreviated as NAV, represents the per-unit market value of a mutual fund and is calculated by dividing the total value of the fund's assets minus liabilities by the number of outstanding units. NAV is typically calculated at the end of each trading day.
+
+A Systematic Investment Plan, or SIP, allows an investor to invest a fixed amount in a mutual fund at regular intervals, such as monthly, rather than investing a large lump sum at once. SIPs help investors benefit from rupee cost averaging and reduce the impact of market volatility.
+
+An equity mutual fund primarily invests in stocks and is suitable for investors with a higher risk tolerance seeking long-term capital growth. A debt mutual fund primarily invests in fixed-income instruments such as bonds and is generally considered lower risk than equity funds.
+
+A fixed income security is a financial instrument that pays a fixed return at regular intervals, such as government bonds or corporate bonds. These instruments are generally considered safer than equities but typically offer lower potential returns.
+
+Diversification is an investment strategy that involves spreading investments across different asset classes, sectors, or geographies to reduce overall portfolio risk. The underlying principle is that different assets do not move in the same direction at the same time under all market conditions.
+
+A demat account, short for dematerialized account, is used to hold shares and securities in electronic form rather than physical certificates. A demat account is required to buy or sell shares on a stock exchange in most modern markets.
+
+A stockbroker is an intermediary, either an individual or a firm, that is licensed to buy and sell securities on behalf of clients in exchange for a commission or brokerage fee. Online discount brokers have significantly reduced brokerage costs in recent years.
+
+Market capitalization refers to the total market value of a company's outstanding shares, calculated by multiplying the current share price by the total number of shares outstanding. Companies are often categorized as large-cap, mid-cap, or small-cap based on this figure.
+
+A dividend is a portion of a company's profit distributed to its shareholders, usually on a per-share basis. Not all companies pay dividends; some prefer to reinvest profits back into the business for growth instead.
+
+An Initial Public Offering, or IPO, is the process through which a private company offers its shares to the public for the first time to raise capital. Once listed, the company's shares can be freely traded on a stock exchange.
+
+Term insurance is a type of life insurance that provides coverage for a specific period and pays a death benefit to the nominee if the policyholder passes away during that term. Term insurance generally has lower premiums compared to other types of life insurance because it does not include a savings or investment component.
+
+A health insurance policy covers medical expenses incurred due to illness, injury, or hospitalization, up to the sum insured. Premiums for health insurance are influenced by factors such as the policyholder's age, medical history, and the chosen sum insured.
+
+The sum insured in an insurance policy represents the maximum amount the insurer agrees to pay in the event of a claim. Choosing an adequate sum insured is important, as an insufficient amount may leave the policyholder underinsured during a major medical event.
+
+A deductible is the amount a policyholder must pay out of pocket before the insurance company starts covering the remaining eligible expenses. Policies with higher deductibles generally have lower premiums.
+
+A claim settlement ratio indicates the percentage of insurance claims an insurer has settled out of the total claims received in a given period. A higher claim settlement ratio is generally considered a positive indicator of an insurer's reliability.
+
+A no-claim bonus is a discount offered on the premium of an insurance policy, typically in motor insurance, for each consecutive year in which no claim has been made. This bonus can accumulate over multiple years, reducing the renewal premium significantly.
+
+Income tax is a direct tax levied by the government on the income earned by individuals and businesses within a financial year. Tax rates are usually structured in slabs, where higher income levels are taxed at higher rates.
+
+A tax deduction reduces the total taxable income of an individual, thereby lowering the overall tax liability, whereas a tax exemption refers to income that is not taxed at all. Common deductions include contributions to retirement savings schemes and certain types of insurance premiums.
+
+Tax Deducted at Source, or TDS, is a mechanism where tax is deducted by the payer at the time of making certain payments, such as salary or interest income, and deposited with the tax authorities on behalf of the recipient. The recipient can later claim credit for the TDS already deducted when filing their tax return.
+
+A financial year is a twelve-month period used by governments and businesses for accounting and tax purposes, which may or may not align with the calendar year depending on the country. All income earned during this period must be reported in the corresponding tax filing.
+
+An emergency fund is a reserve of money set aside to cover unexpected expenses, such as medical emergencies or job loss, typically recommended to cover three to six months of essential living expenses. Financial advisors generally suggest keeping an emergency fund in a easily accessible account rather than in long-term investments.
+
+A budget is a financial plan that estimates income and allocates it toward expenses, savings, and investments over a specific period. Following a budget helps individuals avoid overspending and ensures progress toward financial goals.
+
+Compound interest is interest calculated on both the initial principal and the accumulated interest from previous periods, which causes savings or debt to grow at an increasing rate over time. The longer the investment horizon, the more pronounced the effect of compounding becomes.
+
+Simple interest, in contrast to compound interest, is calculated only on the original principal amount for the entire duration of the loan or investment, regardless of how much interest has already accrued. This generally results in a lower total interest amount compared to compound interest over the same period.
+
+A credit report is a detailed record maintained by credit bureaus that documents an individual's borrowing and repayment history across various lenders. Lenders review credit reports before approving new credit applications to assess the risk of lending to that individual.
+
+Loan default occurs when a borrower fails to make scheduled payments on a loan for a specified period, typically resulting in penalties, a negative impact on the credit score, and potential legal action by the lender. In the case of secured loans, default can also lead to repossession of the pledged collateral.
+
+A co-signer is a person who agrees to take legal responsibility for a loan if the primary borrower fails to repay it. Having a co-signer with a strong credit history can help a borrower with limited credit history qualify for a loan or obtain better terms.
+
+Foreclosure, in the context of loans, refers to the legal process by which a lender repossesses a property after the borrower has failed to make mortgage payments for an extended period. This is generally considered a last resort after multiple missed payments and notices.
+
+A fixed deposit certificate, also called a receipt, is the document issued by a bank confirming the details of a fixed deposit, including the principal amount, interest rate, and maturity date. This document is often required when applying for a loan against the fixed deposit.
+
+A loan against fixed deposit allows a depositor to borrow money using their existing fixed deposit as collateral, without breaking the deposit prematurely. The interest rate on such loans is usually only slightly higher than the interest rate earned on the fixed deposit itself.
+
+Net banking, also referred to as online banking, allows customers to perform banking transactions such as fund transfers, bill payments, and balance inquiries through a secure website or mobile application without visiting a physical branch. Two-factor authentication is commonly used to secure online banking sessions.
+
+A standing instruction is a pre-authorized request given by an account holder to their bank to automatically carry out a recurring transaction, such as a fixed deposit renewal or a regular bill payment, on a specified date each period.
+
+A stop payment request is a request made by an account holder to their bank to cancel a specific cheque before it is processed, usually because the cheque was lost, stolen, or issued in error. Once processed, the bank will refuse payment on that particular cheque if it is presented for clearing.
+
+Two-factor authentication is a security process that requires users to provide two different forms of verification, such as a password and a one-time code sent to a registered mobile number, before completing certain financial transactions. This significantly reduces the risk of unauthorized access compared to relying on a password alone.
+
+A wire transfer is an electronic method of transferring funds from one bank account to another, often used for larger amounts or international transactions. Wire transfers are generally processed faster than traditional methods but may involve higher fees depending on the banks and countries involved.
+
+An account statement is a periodic summary issued by a bank that lists all transactions, including deposits, withdrawals, and fees, that occurred in an account during a specific period. Reviewing account statements regularly helps customers identify unauthorized transactions or billing errors promptly.
