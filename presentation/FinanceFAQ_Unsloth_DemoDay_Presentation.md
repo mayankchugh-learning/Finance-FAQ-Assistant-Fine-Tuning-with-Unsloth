@@ -11,6 +11,7 @@ paginate: true
 
 Qwen2.5-0.5B · a single free Google Colab T4, start to finish
 
+
 ---
 
 <!-- Slide 2 -->
@@ -34,33 +35,27 @@ Qwen2.5-0.5B · a single free Google Colab T4, start to finish
 
 <!-- Slide 3 -->
 
-## ⚙️ Engineering Under the Hood
+## Problem Statement
 
-| Stage | LoRA r/α | LR | Epochs | Steps |
-|---|:---:|:---:|:---:|:---:|
-| 1 · Non-Instruct | 16 / 16 | 2e-4 | 3 | 12 |
-| 2 · SFT | 16 / 16 | 2e-4 | 5 | 35 |
-| 3 · DPO | 16 / 16 | **5e-6 ↓** | 3 | 21 |
+### ❌ A general-purpose LLM is not a domain assistant.
 
-Only 8,798,208 of 502,830,976 params trainable (1.75%) — every stage, same LoRA config, all on a free T4.
+Untrained Qwen2.5-0.5B-Instruct on *"How can I apply for a personal loan?"*: generic AI-disclaimer opener, three vague bullet points that could apply to any financial product.
 
-### ⚠️ A real bug, not a hypothetical one
+### 🎯 Goal
 
-First DPO run: `RuntimeError` — `finance_sft_adapter` not found. Each notebook runs in a fresh Colab session; the adapter was never re-uploaded. **Fixed** by pushing every stage's adapter to the Hugging Face Hub and downloading it fresh at the top of the next notebook — no more manual zip re-uploads.
+Build a Finance FAQ Assistant that answers real customer questions — savings & current accounts, loans, credit cards, mutual funds, insurance, tax — accurately and directly, entirely on a free-tier GPU. No paid API, no large model, no proprietary infrastructure.
 
 ---
 
 <!-- Slide 4 -->
 
-## ⚖️ Root Cause: Why DPO Regressed
+## 💾 Type of Data — 3 Stages, 3 Formats
 
-**Q: "What is a SIP?"** — DPO: *"A SIP (Simple Account Payment) is a prepaid bill..."*
-
-Not noise — a genuinely different, wrong concept. SFT had the correct definition; DPO invented this one.
-
-1. **51 preference pairs is a small dataset for DPO** — the model has very little signal to generalize from.
-2. **3 epochs on a 500M model** with only 1.75% trainable params can still overfit to spurious patterns in a handful of examples.
-3. **Same root cause explains the repetition pattern seen across ALL 3 stages**: greedy decoding, no `repetition_penalty`, no EOS-aware stop — not a training problem, a generation-config problem.
+| Stage | Data | Format | Teaches |
+|---|---|---|---|
+| **Stage 1 — Raw Text** | 57 raw finance paragraphs (`non_instruction_data.txt`) | No Q&A structure — plain domain text | Vocabulary |
+| **Stage 2 — Instruction Pairs** | 104 instruction-response pairs (`instruction_dataset.jsonl`) | Real Q&A format | The behavior of answering |
+| **Stage 3 — Preference Pairs** | 51 chosen/rejected pairs (`preference_dataset.jsonl`) | Two answers per prompt | Which answer is preferred |
 
 ---
 
